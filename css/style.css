@@ -33,9 +33,10 @@ h1 {
   outline: none;
 }
 
-#container {
+ol li #container {
   background-color: light-grey;
   height: 600px;
+  list-style-type: none;
 } 
 
 #subscribe {
