@@ -33,9 +33,7 @@ h1 {
   outline: none;
 }
 
-ol li #container {
-  background-color: light-grey;
-  height: 600px;
+ol li{
   list-style-type: none;
 } 
 
