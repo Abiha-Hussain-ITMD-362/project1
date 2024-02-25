@@ -3,26 +3,29 @@ body {
   margin-left: 10%;
   margin-top: 5%;
   font-family: 'Inter', sans-serif, tahoma;
-  font-size: 18px;
   line-height: 1.5;
+  background-color: #091d3d;
 }
 
 p {
   text-align: center;
   margin-bottom: 3%;
   margin-top: 1%;
+  font-size: 16px;
+  color: white;
 }
 
 h1 {
-  font-family: 'Geologica', sans-serif, arial;
   font-size: 56px;
   text-align: center;
+  color: white;
+  font-family: "Bebas Neue", sans-serif;
 }
 
 #input-email input {
   border: none;
-  background-color: #f2f2f2;
-  width: 100%;
+  background-color: white;
+  width: 80%;
   height: 70px;
   font-size: 22px;
   padding-left: 3%;
@@ -42,7 +45,7 @@ ol li {
   border-radius: 20px;
   margin-top: 3%;
   color: white;
-  font-family: 'Geologica', sans-serif, arial;
+  font-family: "Bebas Neue", sans-serif;  
   font-size: 22px;
   text-align: center;
   width: 80%;
