@@ -29,7 +29,7 @@ h1 {
 
 #input-email input {
   border: none;
-  margin: 0;
+  margin-left: 0;
   background-color: white;
   width: 54%;
   float: left;
@@ -52,7 +52,7 @@ ol li {
   border-radius: 150px;
   text-transform: uppercase;
   margin-top: 3%;
-  margin: 0;
+  margin-left: 0;
   color: #091d3d;
   float: left;
   font-family: "Figtree", sans-serif;
