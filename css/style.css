@@ -21,7 +21,8 @@ h1 {
   font-size: 66px;
   text-align: left;
   color: white;
-  font-family: "Bebas Neue", sans-serif;
+  font-family: "Figtree", sans-serif;
+  font-weight: 800;
 }
 
 #input-email input {
@@ -47,7 +48,8 @@ ol li {
   border-radius: 150px;
   margin-top: 3%;
   color: white;
-  font-family: "Bebas Neue", sans-serif;  
+  font-family: "Figtree", sans-serif;
+  font-weight: 600;
   font-size: 28px;
   text-align: center;
   width: 100%;
