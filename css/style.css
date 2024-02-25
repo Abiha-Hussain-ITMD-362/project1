@@ -1,5 +1,6 @@
 body {
-  margin: 5%;
+  margin-right: 10%;
+  margin-left: 10%;
   margin-top: 5%;
   font-family: 'Inter', sans-serif, tahoma;
   font-size: 18px;
@@ -37,13 +38,14 @@ ol li {
 } 
 
 #subscribe {
-  background-color: black;
+  background-color: linear-gradient(to right, #FFB20D, #FF4FCA);
+  border-radius: 20px;
   margin-top: 3%;
   color: white;
   font-family: 'Geologica', sans-serif, arial;
   font-size: 22px;
   text-align: center;
-  width: 100%;
+  width: 80%;
   height: 75px;
   border: none;
 }
