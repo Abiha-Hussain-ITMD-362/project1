@@ -38,7 +38,7 @@ ol li {
 } 
 
 #subscribe {
-  background-image: linear-gradient(to right, #FFB20D, #FF4FCA);
+  background-image: linear-gradient(200deg, #FFB20D, #FF4FCA);
   border-radius: 20px;
   margin-top: 3%;
   color: white;
