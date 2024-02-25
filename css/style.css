@@ -32,7 +32,6 @@ h1 {
   margin-left: 0;
   background-color: white;
   width: 54%;
-  float: left;
   height: 70px;
   font-size: 22px;
   padding-left: 3%;
@@ -54,7 +53,6 @@ ol li {
   margin-top: 3%;
   margin-left: 0;
   color: #091d3d;
-  float: left;
   font-family: "Figtree", sans-serif;
   font-weight: 800;
   font-size: 22px;
