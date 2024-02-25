@@ -10,7 +10,7 @@
   background-color: #091d3d;
 }
 
-p {
+p, label {
   text-align: left;
   margin-bottom: 3%;
   margin-top: 1%;
