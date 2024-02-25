@@ -46,8 +46,9 @@ ol li {
 } 
 
 #subscribe {
-  background-image: linear-gradient(to right, #84fab0, #8fd3f4, #84fab0);
+  background-color: #02d45d;
   border-radius: 150px;
+  text-transform: uppercase;
   margin-top: 3%;
   color: white;
   font-family: "Figtree", sans-serif;
