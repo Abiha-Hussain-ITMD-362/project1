@@ -1,12 +1,13 @@
-html {
-  background: url("media/person-using-laptop.jpg"), #091d3d;
-  background-size: cover;
-  background-blend-mode: multiply;
+img {
+  float: right;
+  width: 30%;
+  height: auto;
+  margin-left: 5%;
 }
 
 #body {
-  margin-right: 25%;
-  margin-left: 25%;
+  margin-right: 10%;
+  margin-left: 10%;
   margin-top: 10%;
   font-family: 'Inter', sans-serif, tahoma;
   color: white;
@@ -25,6 +26,7 @@ p, label {
 
 h1 {
   font-size: 70px;
+  float: left;
   width: 100%;
   text-align: center;
   color: white;
@@ -43,6 +45,7 @@ h1 {
   padding-right: 3%;
   border-radius: 150px;
   margin-top: 3%;
+  float: left;
   margin-bottom: 1%;
 }
 
@@ -59,6 +62,7 @@ h1 {
   height: 70px;
   font-size: 22px;
   padding-left: 3%;
+  float: left;
   padding-right: 3%;
   border-radius: 150px;
 
@@ -68,19 +72,13 @@ h1 {
   outline: none;
 }
 
-ol li {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  text-indent: 0:
-  padding-left: 0;
-} 
 
 #subscribe {
   background-color: #02d45d;
   border-radius: 150px;
   text-transform: uppercase;
   margin-top: 4%;
+  float: left;
   margin-left: 0;
   color: #091d3d;
   font-family: "Figtree", sans-serif;
