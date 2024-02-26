@@ -7,7 +7,6 @@ img {
 
 #body {
   margin-left: 5%;
-  margin-top: 10%;
   font-family: 'Inter', sans-serif, tahoma;
   color: white;
   font-family: "Almarai", sans-serif;
@@ -29,6 +28,7 @@ h1 {
   font-size: 70px;
   float: left;
   width: 55%;
+  margin-top: 5%;
   text-align: center;
   color: white;
   font-family: "Figtree", sans-serif;
