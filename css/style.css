@@ -44,6 +44,23 @@ h1 {
   outline: none;
 }
 
+#input-name input {
+  border: none;
+  margin-left: 0;
+  background-color: white;
+  width: 54%;
+  height: 70px;
+  font-size: 22px;
+  padding-left: 3%;
+  padding-right: 3%;
+  border-radius: 150px;
+
+}
+
+#input-name input:focus {
+  outline: none;
+}
+
 ol li {
   list-style-type: none;
   margin: 0;
