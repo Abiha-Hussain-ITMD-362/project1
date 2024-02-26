@@ -37,6 +37,7 @@ h1 {
   padding-left: 3%;
   padding-right: 3%;
   border-radius: 150px;
+  margin-top: 3%;
 
 }
 
@@ -73,14 +74,14 @@ ol li {
   background-color: #02d45d;
   border-radius: 150px;
   text-transform: uppercase;
-  margin-top: 3%;
+  margin-top: 4%;
   margin-left: 0;
   color: #091d3d;
   font-family: "Figtree", sans-serif;
   font-weight: 800;
   font-size: 22px;
   text-align: center;
-  width: 100%;
+  width: 60%;
   height: 75px;
   border: none;
 }
