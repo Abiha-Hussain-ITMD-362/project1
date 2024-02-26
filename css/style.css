@@ -1,7 +1,7 @@
 html {
-  background: url(media/person-using-laptop.jpg) #091d3d;
+  background: url("media/person-using-laptop.jpg"), #091d3d;
   background-size: cover;
-  background-blend-mode: multiply;
+  background-blend-mode: overlay;
 }
 
 #body {
