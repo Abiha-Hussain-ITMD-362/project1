@@ -3,6 +3,7 @@ img {
   width: 35%;
   height: auto;
   margin-left: 5%;
+  margin-top: 0;
 }
 
 #body {
@@ -13,7 +14,7 @@ img {
   font-weight: 400;
   line-height: 1.2;
   background-color: #091d3d;
-
+  margin-top: 0;
 }
 
 p, label {
