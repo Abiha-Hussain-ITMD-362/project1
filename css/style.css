@@ -1,7 +1,7 @@
 #body {
-  margin-right: 5%;
-  margin-left: 5%;
-  margin-top: 5%;
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-top: 10%;
   font-family: 'Inter', sans-serif, tahoma;
   color: white;
   font-family: "Almarai", sans-serif;
@@ -15,12 +15,12 @@ p, label {
   margin-bottom: 3%;
   margin-top: 1%;
   font-size: 20px;
-  width: 60%;
+  width: 50%;
 }
 
 h1 {
   font-size: 70px;
-  width: 60%;
+  width: 50%;
   text-align: center;
   color: white;
   font-family: "Figtree", sans-serif;
@@ -31,7 +31,7 @@ h1 {
   border: none;
   margin-left: 0;
   background-color: white;
-  width: 54%;
+  width: 44%;
   height: 70px;
   font-size: 22px;
   padding-left: 3%;
@@ -50,7 +50,7 @@ h1 {
   margin-top: 1%;
   margin-left: 0;
   background-color: white;
-  width: 54%;
+  width: 44%;
   height: 70px;
   font-size: 22px;
   padding-left: 3%;
@@ -82,7 +82,7 @@ ol li {
   font-weight: 800;
   font-size: 22px;
   text-align: center;
-  width: 60%;
+  width: 50%;
   height: 75px;
   border: none;
 }
