@@ -1,7 +1,7 @@
 body {
   background: url("https://t3.ftcdn.net/jpg/02/42/77/22/360_F_242772256_PRwokoyoXkDCIISNjfj9N3If0TPFtje8.jpg");
   background-repeat: no-repeat;
-  width: 200%;
+  background-size: cover;
 }
 
 p, label {
