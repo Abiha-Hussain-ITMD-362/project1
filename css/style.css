@@ -1,11 +1,10 @@
 #img {
-  width: 60%;
-  height: auto;
-  margin-left: 2.5%;
-  margin-top: 0;
-  display: block;
-  background-image: url("media/laptop.jpg");
-  opacity: 0.85;
+  background-image:
+    linear-gradient(to bottom, rgba(13, 35, 99, 0.52), rgba(13, 35, 99 0.73)),
+    url('media/laptop.jpg');
+    width: 100%;
+    height: 400px;
+    background-size: cover;
 }
 
 #body {
@@ -16,7 +15,6 @@
   font-family: "Almarai", sans-serif;
   font-weight: 400;
   line-height: 1.2;
-  background-color: #091d3d;
   margin-top: 0;
 }
 
