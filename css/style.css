@@ -4,6 +4,7 @@ img {
   height: auto;
   margin-left: 5%;
   margin-top: 0;
+  display: block;
 }
 
 #body {
