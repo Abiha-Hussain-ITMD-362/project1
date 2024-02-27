@@ -1,14 +1,16 @@
-img {
+.img {
   float: right;
-  width: 43%;
+  width: 60%;
   height: auto;
   margin-left: 2.5%;
   margin-top: 0;
   display: block;
+  background-image: url("laptop.jpg");
 }
 
 #body {
-  margin-left: 2.5%;
+  margin-left: 30%;
+  margin-right: 30%;
   font-family: 'Inter', sans-serif, tahoma;
   color: white;
   font-family: "Almarai", sans-serif;
@@ -29,7 +31,7 @@ p, label {
 h1 {
   font-size: 70px;
   float: left;
-  width: 55%;
+  width: 100%;
   text-align: center;
   color: white;
   font-family: "Figtree", sans-serif;
@@ -40,7 +42,7 @@ h1 {
   border: none;
   margin-left: 0;
   background-color: white;
-  width: 49%;
+  width: 94%;
   height: 70px;
   font-size: 22px;
   padding-left: 3%;
@@ -60,7 +62,7 @@ h1 {
   margin-top: 1%;
   margin-left: 0;
   background-color: white;
-  width: 49%;
+  width: 94%;
   height: 70px;
   font-size: 22px;
   padding-left: 3%;
@@ -87,7 +89,7 @@ h1 {
   font-weight: 800;
   font-size: 22px;
   text-align: center;
-  width: 55%;
+  width: 100%;
   height: 75px;
   border: none;
 }
