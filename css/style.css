@@ -5,6 +5,7 @@
   margin-top: 0;
   display: block;
   background-image: url("media/laptop.jpg");
+  opacity: .85;
 }
 
 #body {
