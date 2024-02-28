@@ -1,6 +1,5 @@
 body {
   background: url("https://www.theclickcommunity.com/blog/wp-content/uploads/2017/05/black-and-white-photo-of-boy-playing-a-guitar-by-Jonica-Weiler.jpg");
-  background-image: linear-gradient(to right, rgba(25, 44, 130, 0.94), rgba(25, 44, 130, 0.66));
   background-repeat: no-repeat;
   object-fit: contain;
 }
