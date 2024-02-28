@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(180deg, rgba(245, 246, 252, 0.32), rgba(117, 19, 93, 0.73)),
+  background-image: linear-gradient(to bottom right, rgba(245, 246, 252, 0.32), rgba(117, 19, 93, 0.73)),
   url("https://www.theclickcommunity.com/blog/wp-content/uploads/2017/05/black-and-white-photo-of-boy-playing-a-guitar-by-Jonica-Weiler.jpg");
   background-repeat: no-repeat;
   object-fit: contain;
