@@ -1,7 +1,7 @@
 .body {
   position: relative;
   background: linear-gradient(to right, rgba($cs-red, 0.7), rgba($other-red,0.7)),
-  url(https://unsplash.it/1200/500) left top no-repeat;
+  url(media/laptop.jpg) left top no-repeat;
   background-size: cover;
 }
 
