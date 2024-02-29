@@ -83,6 +83,11 @@ h1 {
   outline: none;
 }
 
+#input-age-verification label {
+  margin-top: -20px;
+  margin-left: 30px;
+}
+
 #input-age-verification input[type="checkbox"] {
   position: relative;
   display: block;
