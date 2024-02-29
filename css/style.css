@@ -4,7 +4,6 @@ body {
 
 #container {
   width: 40%;
-  margin-left: 5%;
   margin-right: 5%;
   margin-top: 7%;
   float: right;
@@ -13,6 +12,7 @@ body {
 img {
   float: left;
   object-fit: contain;
+  margin-right: 5%;
 } 
 
 p, label {
