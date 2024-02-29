@@ -41,7 +41,7 @@ h1 {
   background-color: white;
   font-family: "Figtree", sans-serif;
   weight: 700;
-  width: 92%;
+  width: 45%;
   height: 70px;
   font-size: 22px;
   padding-left: 4%;
@@ -58,11 +58,12 @@ h1 {
 #input-name input {
   border: none;
   margin-top: 1%;
+  margin-bottom: 1%;
   margin-left: 0;
   background-color: white;
   font-family: "Figtree", sans-serif;
   weight: 700;
-  width: 92%;
+  width: 45%;
   height: 70px;
   font-size: 22px;
   padding-left: 4%;
