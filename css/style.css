@@ -9,6 +9,14 @@ body {
   float: right;
 }
 
+#right {
+  float: right;
+}
+
+#left {
+  float: left;
+}
+
 img {
   float: left;
   width: 50%;
@@ -63,7 +71,7 @@ h1 {
   background-color: white;
   font-family: "Figtree", sans-serif;
   weight: 700;
-  width: 45%;
+  width: 42%;
   height: 70px;
   font-size: 22px;
   padding-left: 4%;
