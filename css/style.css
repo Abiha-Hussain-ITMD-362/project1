@@ -26,12 +26,11 @@ p, label {
 }
 
 h1 {
-  font-size: 70px;
-  width: 100%;
+  font-size: 75px;
   text-align: center;
   color: #3AE8B8;
   font-family: "Figtree", sans-serif;
-  font-weight: 800;
+  font-weight: 900;
 }
 
 #input-email input {
