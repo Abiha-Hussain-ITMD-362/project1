@@ -12,7 +12,6 @@ body {
 img {
   float: left;
   width: 50%;
-  height: 900px;
   object-fit: cover;
   margin-right: 5%;
 } 
