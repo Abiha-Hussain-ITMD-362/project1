@@ -1,5 +1,5 @@
 body {  
-  background-color: #091d3d; 
+  background-color: #4B00E5; 
 }
 
 #container {
@@ -29,7 +29,7 @@ h1 {
   font-size: 70px;
   width: 100%;
   text-align: center;
-  color: white;
+  color: #3AE8B8;
   font-family: "Figtree", sans-serif;
   font-weight: 800;
 }
@@ -72,12 +72,12 @@ h1 {
 
 
 #subscribe {
-  background-color: #02d45d;
+  background-color: #3AE8B8;
   border-radius: 150px;
   text-transform: uppercase;
   margin-top: 4%;
   margin-left: 0;
-  color: #091d3d;
+  color: #4B00E5;
   font-family: "Figtree", sans-serif;
   font-weight: 800;
   font-size: 22px;
