@@ -1,7 +1,6 @@
 body {
   background-image: url("https://i.pinimg.com/736x/9e/eb/12/9eeb1289ec0d72fecaecad6abdd934f3.jpg");
   object-fit: contain;
-  float: left;
 }
 
 #container {
