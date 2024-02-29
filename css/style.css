@@ -12,7 +12,8 @@ body {
 img {
   float: left;
   width: 50%;
-  height: auto;
+  height: 100%;
+  object-fit: contain;
   margin-right: 5%;
 } 
 
