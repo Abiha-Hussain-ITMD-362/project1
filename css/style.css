@@ -3,6 +3,7 @@ body {
   background-repeat: no-repeat;
   object-fit: contain;
   width: 50%;
+  background-color: #091d3d; 
 }
 
 #container {
