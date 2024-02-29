@@ -1,7 +1,4 @@
-body {
-  background-image: url("https://i.pinimg.com/736x/9e/eb/12/9eeb1289ec0d72fecaecad6abdd934f3.jpg");
-  background-repeat: no-repeat;
-  object-fit: contain;
+body {  
   background-color: #091d3d; 
 }
 
@@ -12,6 +9,11 @@ body {
   margin-top: 7%;
   float: right;
 }
+
+img {
+  float: left;
+  object-fit: contain;
+} 
 
 p, label {
   text-align: left;
