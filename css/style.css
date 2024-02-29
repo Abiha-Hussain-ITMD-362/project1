@@ -1,8 +1,17 @@
 .body {
-  position: relative;
-  background: linear-gradient(to right, rgba($cs-red, 0.7), rgba($other-red,0.7)),
-  url(media/laptop.jpg) left top no-repeat;
-  background-size: cover;
+  background-image: url(https://i.pinimg.com/736x/9e/eb/12/9eeb1289ec0d72fecaecad6abdd934f3.jpg);
+  object-fit: contain;
+  float: left;
+}
+
+.box{
+    width:450px;
+    height:560px;
+    font-size:16px;
+    padding:40px 40px;
+    background-color: #091d3d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 30px;
 }
 
 #container {
