@@ -145,7 +145,7 @@ body {
   
 #container {
   width: 40%;
-  margin-right: 5%;
+  margin-right: 2.5%;
   margin-top: 2.5%;
   float: right;
 }
@@ -154,7 +154,7 @@ img {
   visibility: visible;
   width: 50%;
   object-fit: contain;
-  margin-right: 5%;
+  margin-right: 2.5%;
 } 
 
 p, label {
