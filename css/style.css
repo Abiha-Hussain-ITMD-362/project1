@@ -9,14 +9,6 @@ body {
   float: right;
 }
 
-#right {
-  float: right;
-}
-
-#left {
-  float: left;
-}
-
 img {
   float: left;
   width: 50%;
@@ -71,7 +63,7 @@ h1 {
   background-color: white;
   font-family: "Figtree", sans-serif;
   weight: 700;
-  width: 90%;
+  width: 92%;
   height: 70px;
   font-size: 22px;
   padding-left: 4%;
@@ -83,19 +75,26 @@ h1 {
   outline: none;
 }
 
-#input-age-verification label {
-  margin-top: -20px;
-  margin-left: 30px;
+#input-birthday input {
+  border: none;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-left: 0;
+  background-color: white;
+  font-family: "Figtree", sans-serif;
+  weight: 700;
+  width: 92%;
+  height: 70px;
+  font-size: 22px;
+  padding-left: 4%;
+  padding-right: 4%;
+  border-radius: 150px;
 }
 
-#input-age-verification input[type="checkbox"] {
-  position: relative;
-  display: block;
-  border-radius: 0;
-  accent-color: #3AE8B8;
-  height: 20px;
-  width: 20px;
+#input-birthday input:focus {
+  outline: none;
 }
+
 
 #subscribe {
   background-color: #3AE8B8;
