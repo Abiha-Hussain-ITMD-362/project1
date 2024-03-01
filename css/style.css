@@ -24,7 +24,7 @@ p, label {
   width: 100%;
   color: white;
   font-family: "Figtree", sans-serif;
-  weight: 600;
+  font-weight: 600;
 }
 
 h1 {
@@ -40,7 +40,7 @@ h1 {
   margin-left: 0;
   background-color: white;
   font-family: "Figtree", sans-serif;
-  weight: 700;
+  font-weight: 700;
   width: 92%;
   height: 70px;
   font-size: 22px;
@@ -62,7 +62,7 @@ h1 {
   margin-left: 0;
   background-color: white;
   font-family: "Figtree", sans-serif;
-  weight: 700;
+  font-weight: 700;
   width: 92%;
   height: 70px;
   font-size: 22px;
@@ -78,7 +78,7 @@ h1 {
   margin-left: 0;
   background-color: white;
   font-family: "Figtree", sans-serif;
-  weight: 700;
+  font-weight: 700;
   width: 92%;
   height: 70px;
   font-size: 22px;
@@ -102,7 +102,7 @@ h1 {
   margin-left: 0;
   background-color: white;
   font-family: "Figtree", sans-serif;
-  weight: 700;
+  font-weight: 700;
   width: 92%;
   height: 70px;
   font-size: 22px;
