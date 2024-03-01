@@ -3,7 +3,8 @@ html {
   url(https://1.bp.blogspot.com/-7pjTDPnHiaY/XXKQR_GzzeI/AAAAAAAAJ0U/5Q5Ne8KetRY3Fu1agiiVjNuriL36IjqdgCLcBGAs/s1600/blue-light-romantic-beauty-editorial-neon-Ultraviolet-UV-beauty-photography.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  margin-bottom: 5%;
+  margin-bottom: 0;
+  padding: 0:
 }
 
 img {
@@ -18,6 +19,7 @@ img {
   margin-left: 5%;
   margin-right: 5%;
   margin-top: 5%;
+  margin-bottom: 10%;
 }
 
 h1 {
