@@ -131,7 +131,7 @@ h1 {
   color: #3AE8B8;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1000px) {
 body {  
   background: none;
   object-fit: none;
@@ -143,7 +143,7 @@ body {
 }
   
 #container {
-  width: 40%;
+  width: 35%;
   margin-right: 5%;
   margin-top: 2.5%;
   float: right;
@@ -151,7 +151,7 @@ body {
 
 img {
   visibility: visible;
-  width: 48%;
+  width: 45%;
   margin-right: 5%;
   object-fit: contain:
 } 
