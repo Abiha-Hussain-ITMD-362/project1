@@ -152,6 +152,7 @@ body {
 img {
   visibility: visible;
   width: 50%;
+  object-fit: contain;
   margin-right: 5%;
 } 
 
