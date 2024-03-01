@@ -13,7 +13,7 @@ body  {
 }
 
 img {
-  display: inline;
+  visibility: collapse;
   opacity: 0.2;
 }
 
