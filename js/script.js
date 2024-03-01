@@ -5,7 +5,7 @@ function init(){
  
 
   function myFunction() {
-    text = ('Thank you' + input.value + ', you are now Subscribed!');
+    text = ('Thank you ' + input.value + ', you are now Subscribed!');
     alert(text);
   }
 }
