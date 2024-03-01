@@ -131,10 +131,11 @@ h1 {
   color: #3AE8B8;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 800px) {
 body {  
   background: none;
   object-fit: none;
+  height: 0;
 }
 
 #body {
