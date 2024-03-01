@@ -131,7 +131,7 @@ h1 {
   color: #3AE8B8;
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1500px) {
 body {  
   background: none;
   object-fit: none;
