@@ -131,13 +131,13 @@ h1 {
 
 @media (min-width: 600px) {
 body {  
-  background-color: #4B00E5;
   background: none;
   object-fit: none;
 }
 
 #container {
   width: 40%;
+  background-color: #4B00E5;
   margin-right: 5%;
   margin-top: 2.5%;
   float: right;
