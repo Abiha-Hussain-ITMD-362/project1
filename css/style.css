@@ -1,5 +1,5 @@
 body {  
-  background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.90) 100%), url("https://1.bp.blogspot.com/-7pjTDPnHiaY/XXKQR_GzzeI/AAAAAAAAJ0U/5Q5Ne8KetRY3Fu1agiiVjNuriL36IjqdgCLcBGAs/s1600/blue-light-romantic-beauty-editorial-neon-Ultraviolet-UV-beauty-photography.jpg");
+  background: linear-gradient(180deg, #4B00E5 25%, #4B00E5 100%), url("https://1.bp.blogspot.com/-7pjTDPnHiaY/XXKQR_GzzeI/AAAAAAAAJ0U/5Q5Ne8KetRY3Fu1agiiVjNuriL36IjqdgCLcBGAs/s1600/blue-light-romantic-beauty-editorial-neon-Ultraviolet-UV-beauty-photography.jpg");
   object-fit: contain;
   background-repeat: no-repeat;
   height: 100%;
@@ -7,9 +7,9 @@ body {
 
 img {
  float: left;
- width: 50%;
+ width: 0%;
  object-fit: cover;
- margin-right: 5%;
+ margin-right: 0%;
  visibility: collapse;
 }
 
@@ -145,6 +145,8 @@ body {
 
 img {
   visibility: visible;
+  width: 50%;
+  margin-right: 5%;
 } 
 
 p, label {
