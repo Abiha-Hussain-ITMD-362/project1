@@ -1,4 +1,19 @@
-body {  
+body  {
+  background-image: linear-gradient(to bottom right, #4B00E5, #3AE8B8);
+    }
+
+#container {
+  margin-right: 30%;
+  margin-left: 30%;
+  margin-top: 5%;
+}
+
+img {
+  display: none;
+}
+
+@media screen and (min-width: 700px){
+ body {  
   background-color: #4B00E5; 
 }
 
@@ -120,18 +135,6 @@ h1 {
   color: #3AE8B8;
 }
 
-@media screen and (min-width: 530px){
-  #container {
-    margin-right: 2.5%;
-  }
-
-  img {
-    margin-right: 2.5%;
-  }
-  
-  h1 {
-    font-size: 35px;
-  }
   
 }
 
