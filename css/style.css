@@ -1,7 +1,8 @@
 html {  
-  background: linear-gradient(180deg, rgba(75,0,229,0.10) 0%, rgba(75,0,229,0.90) 100%) 100%, 
+  background: linear-gradient(180deg, rgba(75,0,229,0.10) 0%, rgba(75,0,229,0.90) 100%), 
   url(https://1.bp.blogspot.com/-7pjTDPnHiaY/XXKQR_GzzeI/AAAAAAAAJ0U/5Q5Ne8KetRY3Fu1agiiVjNuriL36IjqdgCLcBGAs/s1600/blue-light-romantic-beauty-editorial-neon-Ultraviolet-UV-beauty-photography.jpg);
   background-size: cover;
+  height: 100%;
   background-repeat: no-repeat;
   margin-bottom: 0;
   padding: 0:
