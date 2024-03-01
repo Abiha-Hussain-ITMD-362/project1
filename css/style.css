@@ -116,7 +116,7 @@ h1 {
   border-radius: 150px;
   text-transform: uppercase;
   margin-top: 7%;
-  margin-bottom: 5%;
+  margin-bottom: auto;
   margin-left: 0;
   color: #4B00E5;
   font-family: "Figtree", sans-serif;
