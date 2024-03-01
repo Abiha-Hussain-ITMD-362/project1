@@ -4,7 +4,8 @@ html {
   background-size: cover;
   height: 100%;
   background-repeat: no-repeat;
-  margin-bottom: 0;
+  margin-bottom: auto;
+  margin-top: auto;
   padding: 0:
 }
 
@@ -19,8 +20,6 @@ img {
 #container {
   margin-left: 5%;
   margin-right: 5%;
-  margin-top: 5%;
-  margin-bottom: 10%;
 }
 
 h1 {
@@ -151,7 +150,6 @@ label {
   #container {
     margin-left: 25%;
     margin-right: 25%;
-    margin-bottom: 15%;
   }
 }
 
