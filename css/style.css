@@ -137,9 +137,12 @@ body {
   object-fit: none;
 }
 
+#body {
+    background-color: #4B00E5;
+}
+  
 #container {
   width: 40%;
-  background-color: #4B00E5;
   margin-right: 5%;
   margin-top: 2.5%;
   float: right;
