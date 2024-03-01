@@ -1,5 +1,6 @@
 body {  
-  background: linear-gradient(180deg, rgba(75, 0, 229, 0.25), rgba(75, 0, 229, 0.85), url("https://1.bp.blogspot.com/-7pjTDPnHiaY/XXKQR_GzzeI/AAAAAAAAJ0U/5Q5Ne8KetRY3Fu1agiiVjNuriL36IjqdgCLcBGAs/s1600/blue-light-romantic-beauty-editorial-neon-Ultraviolet-UV-beauty-photography.jpg");
+  background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(75,0,229,0.90) 100%), 
+                url(https://1.bp.blogspot.com/-7pjTDPnHiaY/XXKQR_GzzeI/AAAAAAAAJ0U/5Q5Ne8KetRY3Fu1agiiVjNuriL36IjqdgCLcBGAs/s1600/blue-light-romantic-beauty-editorial-neon-Ultraviolet-UV-beauty-photography.jpg);
   object-fit: contain;
   background-repeat: no-repeat;
   height: 100%;
