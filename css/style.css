@@ -134,6 +134,19 @@ h1 {
   color: #3AE8B8;
 }
 
+label {
+    text-align: left;
+    text-transform: uppercase;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 2%;
+    font-size: 15px;
+    width: 100%;
+    color: #3AE8B8;
+    font-family: "Figtree", sans-serif;
+    font-weight: 600;
+  }
+
 @media (min-width: 900px) {
   #container {
     margin-left: 25%;
@@ -166,15 +179,4 @@ h1 {
     object-fit: contain;
     margin-right: 5%;
   } 
-
-  p, label {
-    text-align: left;
-    text-transform: uppercase;
-    margin-top: 1%;
-    font-size: 20px;
-    width: 100%;
-    color: #3AE8B8;
-    font-family: "Figtree", sans-serif;
-    font-weight: 600;
-  }
 }
