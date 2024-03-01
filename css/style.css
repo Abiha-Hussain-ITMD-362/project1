@@ -1,5 +1,5 @@
 body  {
-  background-image: linear-gradient(to bottom right, #4B00E5, #3AE8B8);
+  background-image: linear-gradient(to bottom left, #4B00E5, #3AE8B8);
     }
 
 #container {
@@ -12,7 +12,7 @@ img {
   display: none;
 }
 
-@media screen and (min-width: 700px){
+@media screen and (min-width: 800px){
  body {  
   background-color: #4B00E5; 
 }
