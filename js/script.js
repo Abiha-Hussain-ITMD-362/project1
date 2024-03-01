@@ -1,6 +1,6 @@
 function init(){
   var button = document.getElementById("subscribe");
-  var input = document.getElementById("name-first");
+  var input = document.getElementById("firstname");
   button.addEventListener("click", myFunction);
  
 
